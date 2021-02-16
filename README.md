@@ -13,5 +13,3 @@ Updated the 'README.md' file to change the URLs for the github actions:
 Edit the file ./homework1/hw1.py to make the three github actions pass.
 
 When they pass, and you see the updated badges in your repository, send me a link to the repository, like:
-
-https://github.com/Nikitachapagai/root_homework1
